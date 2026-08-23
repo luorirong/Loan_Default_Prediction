@@ -1,1 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
 
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# 数据文件（防止大文件上传）
+*.csv
+*.xlsx
+*.pkl
+
+# 系统文件
+.DS_Store
+Thumbs.db
